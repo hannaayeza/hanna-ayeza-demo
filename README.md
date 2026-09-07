@@ -1,4 +1,4 @@
 # hanna-ayeza-demo
 This is my first git repos.
 <br>
-Author - Hanna Ayeza
+Author - Hanna Ayeza Butt 
